@@ -285,7 +285,7 @@
                 <div class="movie">
                     <div class="movie-image">
                         <span class="play"><span class="name">ANNABELLE</span></span>
-                        <a href="#"><img src="css/images/movie1.jpg" alt="" /></a>
+                        <a href="https://www.youtube.com/watch?v=8kmLHwKH31M"><img src="css/images/movie1.jpg" alt="" /></a>
                     </div>
                     <div class="rating">
                         <p>RATING</p>
@@ -299,7 +299,7 @@
                 <div class="movie">
                     <div class="movie-image">
                         <span class="play"><span class="name">LA MONJA</span></span>
-                        <a href="#"><img src="css/images/movie2.jpg" alt="" /></a>
+                        <a href="https://www.youtube.com/watch?v=eqVjGwYFVqQ"><img src="css/images/movie2.jpg" alt="" /></a>
                     </div>
                     <div class="rating">
                         <p>RATING</p>
@@ -313,7 +313,7 @@
                 <div class="movie">
                     <div class="movie-image">
                         <span class="play"><span class="name">DON'T BREATHE</span></span>
-                        <a href="#"><img src="css/images/movie3.jpg" alt="" /></a>
+                        <a href="https://www.youtube.com/watch?v=76yBTNDB6vU"><img src="css/images/movie3.jpg" alt="" /></a>
                     </div>
                     <div class="rating">
                         <p>RATING</p>
@@ -327,7 +327,7 @@
                 <div class="movie">
                     <div class="movie-image">
                         <span class="play"><span class="name">SINISTER</span></span>
-                        <a href="#"><img src="css/images/movie4.jpg" alt="" /></a>
+                        <a href="https://www.youtube.com/watch?v=_kbQAJR9YWQ"><img src="css/images/movie4.jpg" alt="" /></a>
                     </div>
                     <div class="rating">
                         <p>RATING</p>
@@ -350,7 +350,7 @@
                 <div class="movie">
                     <div class="movie-image">
                         <span class="play"><span class="name">MEN</span></span>
-                        <a href="#"><img src="css/images/movie5.jpg" alt="" /></a>
+                        <a href="https://www.youtube.com/watch?v=pt81CJcWZy8"><img src="css/images/movie5.jpg" alt="" /></a>
                     </div>
                     <div class="rating">
                         <p>RATING</p>
@@ -364,7 +364,7 @@
                 <div class="movie">
                     <div class="movie-image">
                         <span class="play"><span class="name">EXPEDIENTE WARREN</span></span>
-                        <a href="#"><img src="css/images/movie6.jpg" alt="" /></a>
+                        <a href="https://www.youtube.com/watch?v=1kOlrEwTfco"><img src="css/images/movie6.jpg" alt="" /></a>
                     </div>
                     <div class="rating">
                         <p>RATING</p>
